@@ -1,0 +1,13 @@
+<!-- HTML yang sudah ada -->
+<section>
+   ...materi kamu...
+</section>
+
+<!-- TAMBAHAN -->
+<section id="lkpd">
+   ...LKPD...
+</section>
+
+<section id="evaluasi">
+   ...soal...
+</section>
